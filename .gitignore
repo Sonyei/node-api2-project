@@ -117,3 +117,6 @@ dist
 
 .DS_Store
 .vscode
+
+#environment variables
+.env
